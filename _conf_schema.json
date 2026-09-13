@@ -1,13 +1,13 @@
 {
   "graylog_url": {
     "type": "string",
-    "description": "Graylog 地址（不含 /api）",
-    "hint": "例如 http://192.168.1.1:9000，换成你的实际地址",
+    "description": "Graylog 的地址(不含 /api)",
+    "hint": "例如 http://192.168.1.1:9000,换成你的实际地址",
     "default": ""
   },
   "graylog_token": {
     "type": "string",
-    "description": "Graylog Access Token（System → Users and Teams → 用户 → Edit tokens 创建）",
+    "description": "Graylog Access Token(System → Users and Teams → 用户 → Edit tokens 创建)",
     "default": ""
   }
 }

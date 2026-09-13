@@ -1,6 +1,6 @@
 # astrbot_plugin_graylog
 
-让 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 通过 Graylog REST API 连接 Graylog 的基础插件。
+这是一个让 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 通过 Graylog REST API 连接 Graylog 的基础插件。
 
 ## 当前状态
 

@@ -1,6 +1,7 @@
+# 这个文件是 astrbot_plugin_graylog 插件的元数据文件。
 name: astrbot_plugin_graylog
 display_name: Graylog 连接
-desc: 通过 Graylog REST API 连接 Graylog 的基础插件（配置地址与 Token，供功能扩展）
-version: v1.0.0
+desc: 通过 Graylog REST API 连接 Graylog 的基础插件(配置地址与 Token,供功能扩展)
+version: v1.2.0
 author: semianise
 repo: https://github.com/semianise/astrbot_plugin_graylog
